@@ -11,5 +11,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddr137&hide=TeX&layout=compact)
 
+[![@ddr137's Holopin board](https://holopin.io/api/user/board?user=ddr137)](https://holopin.io/@ddr137)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ddr137)
 
