@@ -45,14 +45,8 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ddr137/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/31cfmm3nniili6pt7iwaly3ijxfm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cfmm3nniili6pt7iwaly3ijxfm&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cfmm3nniili6pt7iwaly3ijxfm&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
