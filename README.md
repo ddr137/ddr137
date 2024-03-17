@@ -51,8 +51,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/leetcrowd">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=leetcrowd&count=5&unique=true](https://spotify-recently-played-readme.vercel.app/api?user=31cfmm3nniili6pt7iwaly3ijxfm)https://spotify-recently-played-readme.vercel.app/api?user=31cfmm3nniili6pt7iwaly3ijxfm" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31cfmm3nniili6pt7iwaly3ijxfm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cfmm3nniili6pt7iwaly3ijxfm&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
