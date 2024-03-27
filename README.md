@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Dani from Earth<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Laravel, Go and Python<br>- ⚡ In my free time I Sleeping Beauty</p>
+<p align="left">I'm Dani from Earth<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Laravel, Go and Python</p>
 
 ###
 
@@ -36,6 +36,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
