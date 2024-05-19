@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Dani from Earth<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Laravel, Go and Python</p>
+<p align="left">I'm Dani from Earth<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Laravel, AstroJS, NextJS and NodeJS</p>
 
 ###
 
