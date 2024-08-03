@@ -12,12 +12,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ddr137.ddr137&"  />
 </div>
 
-###
-
-<h1 align="center">hey gaess 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
