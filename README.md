@@ -16,4 +16,8 @@
 
 ###
 
-<p align="left">I'm Dani from Earth<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Laravel, Go and AstroJS</p>
+<p align="left">As an experienced Mobile developer with over 4+ years of industry expertise, I specialize in creating innovative, user-friendly mobile apps. I excel in app architecture, UI/UX design, and backend integration.
+
+With a track record of delivering consumer-facing apps, I stay updated with industry trends to ensure high-quality code and exceptional user experiences.
+
+I bring strong problem-solving skills and thrive in fast-paced environments. Eager to expand my skills and contribute to your organization's success.</p>
