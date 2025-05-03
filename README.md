@@ -16,8 +16,10 @@
 
 ###
 
-<p align="left">As an experienced Mobile developer with over 4+ years of industry expertise, I specialize in creating innovative, user-friendly mobile apps. I excel in app architecture, UI/UX design, and backend integration.
+<p align="left">
+I’m a Software Engineer with 4+ years of experience crafting mobile and web apps using Flutter, Laravel, Vue.js, React Native, and Kotlin.
 
-With a track record of delivering consumer-facing apps, I stay updated with industry trends to ensure high-quality code and exceptional user experiences.
+I focus on clean code, intuitive UI/UX, and seamless backend integration. Passionate about solving real-world problems, I’ve delivered products that users love and businesses value.
 
-I bring strong problem-solving skills and thrive in fast-paced environments. Eager to expand my skills and contribute to your organization's success.</p>
+Fast learner, team player, and always ready to take on new challenges — let’s build something great together.
+</p>
