@@ -17,7 +17,7 @@
 ###
 
 <p align="left">
-I’m a Software Engineer with 4+ years of experience crafting mobile and web apps using Flutter, Laravel, Vue.js, React Native, and Kotlin.
+I’m a Software Engineer with 4+ years of experience crafting mobile and web apps using Flutter, Laravel, Vue.js, Next,js, React Native, and Kotlin.
 
 I focus on clean code, intuitive UI/UX, and seamless backend integration. Passionate about solving real-world problems, I’ve delivered products that users love and businesses value.
 
